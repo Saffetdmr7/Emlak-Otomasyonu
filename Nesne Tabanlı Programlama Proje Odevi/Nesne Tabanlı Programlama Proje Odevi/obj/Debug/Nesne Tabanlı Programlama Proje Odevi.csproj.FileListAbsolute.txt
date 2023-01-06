@@ -1,0 +1,57 @@
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\bin\Debug\Nesne Tabanlı Programlama Proje Odevi.exe.config
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\bin\Debug\Nesne Tabanlı Programlama Proje Odevi.exe
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\bin\Debug\Nesne Tabanlı Programlama Proje Odevi.pdb
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne Tabanlı Programlama Proje Odevi.csproj.AssemblyReference.cache
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne Tabanlı Programlama Proje Odevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.GirisSayfası.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.Properties.Resources.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne Tabanlı Programlama Proje Odevi.csproj.GenerateResource.cache
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne Tabanlı Programlama Proje Odevi.csproj.CoreCompileInputs.cache
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne Tabanlı Programlama Proje Odevi.exe
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne Tabanlı Programlama Proje Odevi.pdb
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.HesapOlustur.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.SifremiUnuttum.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.MailDogrulama.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.AnaSayfa.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.EmailDegis.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.Profil.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.telnoDegis.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.adsoyadDegis.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.sifreDegis.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.yasDegistir.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.evAdresEkle.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.evEkle.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.evFoto.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.IlanSil.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.ilanGüncelle.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.fotoDeğiş.resources
+C:\Users\saffe\source\repos\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.IlanlarıGöster.resources
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\bin\Debug\EmlakProje.mdf
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\bin\Debug\EmlakProje_log.ldf
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\bin\Debug\Nesne Tabanlı Programlama Proje Odevi.exe.config
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\bin\Debug\Nesne Tabanlı Programlama Proje Odevi.exe
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\bin\Debug\Nesne Tabanlı Programlama Proje Odevi.pdb
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne Tabanlı Programlama Proje Odevi.csproj.AssemblyReference.cache
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.adsoyadDegis.resources
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.AnaSayfa.resources
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.EmailDegis.resources
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.evAdresEkle.resources
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.evEkle.resources
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.evFoto.resources
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.fotoDeğiş.resources
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.GirisSayfası.resources
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.HesapOlustur.resources
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.ilanGüncelle.resources
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.IlanlarıGöster.resources
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.IlanSil.resources
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.MailDogrulama.resources
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.Profil.resources
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.Properties.Resources.resources
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.sifreDegis.resources
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.SifremiUnuttum.resources
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.telnoDegis.resources
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne_Tabanlı_Programlama_Proje_Odevi.yasDegistir.resources
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne Tabanlı Programlama Proje Odevi.csproj.GenerateResource.cache
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne Tabanlı Programlama Proje Odevi.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne Tabanlı Programlama Proje Odevi.exe
+C:\Users\Muhammed\Desktop\Safsafsaf\Nesne Tabanlı Programlama Proje Odevi\Nesne Tabanlı Programlama Proje Odevi\obj\Debug\Nesne Tabanlı Programlama Proje Odevi.pdb
