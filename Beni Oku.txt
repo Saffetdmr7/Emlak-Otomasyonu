@@ -1,0 +1,1 @@
+Proje Setup dosyasından setupu kurarak çalıştırabilirsiniz.
